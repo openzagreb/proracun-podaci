@@ -1,0 +1,233 @@
+Index,Lokacija,Tijelo samouprave,Godina,Vrsta,Klasifikacija,Razred,Razred opis,Skupina,Skupina opis,Podskupina,Podskupina opis,Iznos
+1,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,801761962
+2,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+3,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,322626
+4,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+5,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+6,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,0
+7,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8,Grad Zagreb,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,0
+9,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+10,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+11,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,47694103
+12,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+13,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,0
+14,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,,,2100526
+15,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+16,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+17,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+18,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+19,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+20,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,2100526
+21,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+22,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+23,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+24,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,995955850
+25,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,0
+26,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,86846832
+27,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,0
+28,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,939713
+29,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+30,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+31,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,0
+32,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+33,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",0
+34,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",0
+35,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+36,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+37,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+38,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+39,Grad Zagreb,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+40,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+41,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+42,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+43,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,0
+44,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+45,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,597000
+46,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+47,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+48,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,2039988
+49,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+50,Grad Zagreb,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+51,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,811326861
+52,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,239543901
+53,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+54,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,114925177
+55,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,0
+56,Grad Zagreb,županija,2010,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+57,Grad Zagreb,županija,2010,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+58,Grad Zagreb,županija,2010,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,46622511
+59,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,682491076
+60,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+61,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,4037009
+62,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+63,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+64,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,0
+65,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+66,Grad Zagreb,županija,2011,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,0
+67,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+68,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+69,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,37502532
+70,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+71,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,0
+72,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,,,2012103
+73,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+74,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+75,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+76,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+77,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+78,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,2012103
+79,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+80,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+81,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+82,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,989810703
+83,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,0
+84,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,50622000
+85,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,0
+86,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+87,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+88,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+89,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,0
+90,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+91,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",0
+92,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",0
+93,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+94,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+95,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+96,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+97,Grad Zagreb,županija,2011,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+98,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+99,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+100,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+101,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,0
+102,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+103,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,760300
+104,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+105,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+106,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,2299000
+107,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+108,Grad Zagreb,županija,2011,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+109,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,819786620
+110,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,222201008
+111,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+112,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,101591799
+113,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,0
+114,Grad Zagreb,županija,2011,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+115,Grad Zagreb,županija,2011,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+116,Grad Zagreb,županija,2011,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,49290264
+117,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,676778044
+118,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+119,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,3833532
+120,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+121,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+122,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,0
+123,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+124,Grad Zagreb,županija,2012,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,0
+125,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+126,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+127,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,30902580
+128,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+129,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,0
+130,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,,,3112037
+131,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+132,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+133,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+134,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+135,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+136,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,3112037
+137,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+138,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+139,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+140,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,1057994114
+141,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,0
+142,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+143,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,0
+144,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+145,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+146,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+147,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,431585
+148,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+149,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",0
+150,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",0
+151,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+152,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+153,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+154,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+155,Grad Zagreb,županija,2012,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+156,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+157,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+158,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+159,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,0
+160,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+161,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,710300
+162,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+163,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+164,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,2248999
+165,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+166,Grad Zagreb,županija,2012,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+167,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,808338544
+168,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,202004040
+169,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+170,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,98665082
+171,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,3000000
+172,Grad Zagreb,županija,2012,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+173,Grad Zagreb,županija,2012,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+174,Grad Zagreb,županija,2012,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,47807353
+175,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,678163977
+176,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+177,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,4366282
+178,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+179,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+180,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,0
+181,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+182,Grad Zagreb,županija,2013,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,0
+183,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+184,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+185,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,40397304
+186,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,15952355
+187,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,905954
+188,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,,,5491586
+189,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+190,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+191,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+192,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+193,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+194,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,5491586
+195,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+196,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+197,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+198,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,1477751804
+199,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,0
+200,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+201,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,0
+202,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+203,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+204,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+205,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1127877
+206,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+207,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",0
+208,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",0
+209,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+210,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+211,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+212,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+213,Grad Zagreb,županija,2013,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+214,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+215,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+216,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+217,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,0
+218,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+219,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,710300
+220,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+221,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+222,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,2649000
+223,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+224,Grad Zagreb,županija,2013,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+225,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,857264530
+226,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,237692806
+227,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+228,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,112980613
+229,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,0
+230,Grad Zagreb,županija,2013,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,2677517
+231,Grad Zagreb,županija,2013,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+232,Grad Zagreb,županija,2013,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,48862032
