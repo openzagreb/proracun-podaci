@@ -1,0 +1,982 @@
+Index,Lokacija,Tijelo samouprave,Godina,Vrsta,Klasifikacija,Razred,Razred opis,Skupina,Skupina opis,Podskupina,Podskupina opis,Iznos
+8001,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,4211836
+8002,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8003,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,678417
+8004,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8005,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8006,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,21563782
+8007,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8008,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,861293
+8009,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8010,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,2887937
+8011,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8012,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,705880
+8013,Primorsko-goranska,županija,2002,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,2080015
+8014,Primorsko-goranska,županija,2002,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8015,Primorsko-goranska,županija,2002,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8016,Primorsko-goranska,županija,2002,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8017,Primorsko-goranska,županija,2002,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8018,Primorsko-goranska,županija,2002,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8019,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8020,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,1300000
+8021,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8022,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8023,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8024,Primorsko-goranska,županija,2002,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,172955
+8025,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8026,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8027,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8028,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8029,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,631218
+8030,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8031,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8032,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8033,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8034,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8035,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8036,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8037,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8038,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8039,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,4188636
+8040,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,1569176
+8041,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,10504
+8042,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,853297
+8043,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8044,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,177333
+8045,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8046,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8047,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1110000
+8048,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8049,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",6540193
+8050,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",1380533
+8051,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8052,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8053,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8054,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8055,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8056,Primorsko-goranska,županija,2002,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,950000
+8057,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,1200000
+8058,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,1000000
+8059,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8060,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,824232
+8061,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,474676
+8062,Primorsko-goranska,županija,2002,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,171160
+8063,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8064,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,401591
+8065,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,2442875
+8066,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8067,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,272281
+8068,Primorsko-goranska,županija,2002,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,1370000
+8069,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8070,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8071,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8072,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,17109048
+8073,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+8074,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,11800
+8075,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8076,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,171450
+8077,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,10160152
+8078,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,100000
+8079,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8080,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,2851393
+8081,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,206000
+8082,Primorsko-goranska,županija,2002,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,306906
+8083,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,1780000
+8084,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,5665689
+8085,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,100000
+8086,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8087,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8088,Primorsko-goranska,županija,2002,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,854000
+8089,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8090,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,19996042
+8091,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8092,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,22048885
+8093,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8094,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,1249440
+8095,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,24000
+8096,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,60000
+8097,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,612317
+8098,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8099,Primorsko-goranska,županija,2002,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,551000
+8100,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8101,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8102,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,13972312
+8103,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8104,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,30000
+8105,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8106,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1660560
+8107,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,292605
+8108,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8109,Primorsko-goranska,županija,2002,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,3668775
+8110,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,8247105
+8111,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8112,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,612152
+8113,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8114,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8115,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,26637779
+8116,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8117,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,1785804
+8118,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8119,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,3507333
+8120,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8121,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,4874946
+8122,Primorsko-goranska,županija,2003,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,127574
+8123,Primorsko-goranska,županija,2003,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8124,Primorsko-goranska,županija,2003,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8125,Primorsko-goranska,županija,2003,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8126,Primorsko-goranska,županija,2003,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8127,Primorsko-goranska,županija,2003,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8128,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8129,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,3145000
+8130,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8131,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8132,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8133,Primorsko-goranska,županija,2003,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,205936
+8134,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8135,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8136,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8137,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8138,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,2081095
+8139,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8140,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8141,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8142,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8143,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8144,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8145,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8146,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8147,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8148,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,13392540
+8149,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,5165421
+8150,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,36051
+8151,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,634416
+8152,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8153,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,722660
+8154,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8155,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8156,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1399765
+8157,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8158,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",3467726
+8159,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",3378347
+8160,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8161,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8162,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8163,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8164,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8165,Primorsko-goranska,županija,2003,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8166,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,4600000
+8167,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,1300000
+8168,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8169,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,1943910
+8170,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,774599
+8171,Primorsko-goranska,županija,2003,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,201888
+8172,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8173,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,1983045
+8174,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,2276559
+8175,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8176,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,266050
+8177,Primorsko-goranska,županija,2003,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,2500000
+8178,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8179,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8180,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8181,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,34669440
+8182,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+8183,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,47600
+8184,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8185,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8186,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,3812746
+8187,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,101000
+8188,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8189,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,2940856
+8190,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,146000
+8191,Primorsko-goranska,županija,2003,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,500000
+8192,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,4586086
+8193,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,6700560
+8194,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8195,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8196,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,1975879
+8197,Primorsko-goranska,županija,2003,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,940000
+8198,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8199,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,25899101
+8200,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8201,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,28024450
+8202,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8203,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,867220
+8204,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8205,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,80000
+8206,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,575767
+8207,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8208,Primorsko-goranska,županija,2003,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,4834025
+8209,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8210,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8211,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,11256617
+8212,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8213,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,30000
+8214,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8215,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1497760
+8216,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,431401
+8217,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8218,Primorsko-goranska,županija,2003,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,3935124
+8219,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,9488944
+8220,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8221,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,253642
+8222,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8223,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8224,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,30192875
+8225,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8226,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,3300921
+8227,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8228,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,2658855
+8229,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,10602
+8230,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,165111
+8231,Primorsko-goranska,županija,2004,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,2527331
+8232,Primorsko-goranska,županija,2004,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8233,Primorsko-goranska,županija,2004,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8234,Primorsko-goranska,županija,2004,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8235,Primorsko-goranska,županija,2004,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8236,Primorsko-goranska,županija,2004,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8237,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8238,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,1300000
+8239,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8240,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8241,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8242,Primorsko-goranska,županija,2004,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,195529
+8243,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8244,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8245,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8246,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8247,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,1652539
+8248,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8249,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8250,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8251,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8252,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8253,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8254,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8255,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8256,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8257,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,2193736
+8258,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,5453304
+8259,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,19557
+8260,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,1597230
+8261,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8262,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,588020
+8263,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8264,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8265,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1620005
+8266,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8267,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",8600373
+8268,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",3202841
+8269,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8270,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8271,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8272,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8273,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8274,Primorsko-goranska,županija,2004,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8275,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,1650630
+8276,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,2000000
+8277,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8278,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8279,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,923171
+8280,Primorsko-goranska,županija,2004,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1081277
+8281,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8282,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,5864855
+8283,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,8315191
+8284,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8285,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8286,Primorsko-goranska,županija,2004,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,2500000
+8287,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8288,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8289,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8290,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,35133575
+8291,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,0
+8292,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,30000
+8293,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8294,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8295,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,1158268
+8296,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,110000
+8297,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8298,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,3509537
+8299,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,290000
+8300,Primorsko-goranska,županija,2004,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,477000
+8301,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,4949135
+8302,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,8888526
+8303,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8304,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8305,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,120000
+8306,Primorsko-goranska,županija,2004,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,930000
+8307,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8308,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,29419591
+8309,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,30000
+8310,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,27268240
+8311,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8312,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,890515
+8313,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8314,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,169540
+8315,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,675485
+8316,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8317,Primorsko-goranska,županija,2004,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,359526
+8318,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8319,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,100000
+8320,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,13257488
+8321,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8322,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,188600
+8323,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8324,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1385120
+8325,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,500000
+8326,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8327,Primorsko-goranska,županija,2004,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,5517297
+8328,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,10336809
+8329,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8330,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,229093
+8331,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8332,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8333,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,30823514
+8334,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8335,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,2716930
+8336,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8337,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,6212070
+8338,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8339,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,66323
+8340,Primorsko-goranska,županija,2005,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,337455
+8341,Primorsko-goranska,županija,2005,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8342,Primorsko-goranska,županija,2005,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8343,Primorsko-goranska,županija,2005,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8344,Primorsko-goranska,županija,2005,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8345,Primorsko-goranska,županija,2005,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8346,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8347,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,1335000
+8348,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8349,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8350,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8351,Primorsko-goranska,županija,2005,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,199747
+8352,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8353,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8354,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8355,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8356,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,1336888
+8357,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8358,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8359,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8360,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8361,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8362,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8363,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8364,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8365,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8366,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,2582269
+8367,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,7706620
+8368,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8369,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,1488176
+8370,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8371,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,484153
+8372,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8373,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8374,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1312600
+8375,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8376,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",8706490
+8377,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",3293992
+8378,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8379,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8380,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8381,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8382,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8383,Primorsko-goranska,županija,2005,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8384,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,1640370
+8385,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,3300000
+8386,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8387,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8388,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,781551
+8389,Primorsko-goranska,županija,2005,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,884726
+8390,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8391,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,7754591
+8392,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,6106887
+8393,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8394,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8395,Primorsko-goranska,županija,2005,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,2739168
+8396,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8397,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8398,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8399,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,39066132
+8400,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,212000
+8401,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,50000
+8402,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8403,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8404,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8405,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8406,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8407,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,4861219
+8408,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,413200
+8409,Primorsko-goranska,županija,2005,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,331267
+8410,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,4330000
+8411,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,11294807
+8412,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8413,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,487000
+8414,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8415,Primorsko-goranska,županija,2005,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,1124095
+8416,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8417,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,28127032
+8418,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8419,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,29453471
+8420,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8421,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,2012623
+8422,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8423,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8424,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8425,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8426,Primorsko-goranska,županija,2005,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,0
+8427,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8428,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,100000
+8429,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,18786920
+8430,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8431,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,80000
+8432,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8433,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1383360
+8434,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8435,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8436,Primorsko-goranska,županija,2005,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,6434573
+8437,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,11459405
+8438,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8439,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,357919
+8440,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8441,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8442,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,35049996
+8443,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8444,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,2830727
+8445,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8446,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,4314354
+8447,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8448,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,0
+8449,Primorsko-goranska,županija,2006,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,278420
+8450,Primorsko-goranska,županija,2006,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8451,Primorsko-goranska,županija,2006,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8452,Primorsko-goranska,županija,2006,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8453,Primorsko-goranska,županija,2006,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8454,Primorsko-goranska,županija,2006,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8455,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8456,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,2065000
+8457,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8458,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8459,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8460,Primorsko-goranska,županija,2006,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,275786
+8461,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8462,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8463,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8464,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8465,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,1491576
+8466,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8467,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8468,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8469,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8470,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8471,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8472,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8473,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8474,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8475,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,4922070
+8476,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,5756069
+8477,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8478,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,1726248
+8479,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8480,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,543911
+8481,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8482,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8483,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1705429
+8484,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8485,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",11993997
+8486,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",2138689
+8487,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8488,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8489,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8490,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8491,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8492,Primorsko-goranska,županija,2006,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8493,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,1306049
+8494,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,1978000
+8495,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8496,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8497,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,1485337
+8498,Primorsko-goranska,županija,2006,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1515703
+8499,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8500,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,8494096
+8501,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,7800540
+8502,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8503,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8504,Primorsko-goranska,županija,2006,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,2049961
+8505,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8506,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8507,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8508,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,45158626
+8509,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,388334
+8510,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,0
+8511,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8512,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8513,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8514,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8515,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8516,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,7283549
+8517,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,176900
+8518,Primorsko-goranska,županija,2006,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,47104
+8519,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,4464570
+8520,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,12405422
+8521,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8522,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,385000
+8523,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8524,Primorsko-goranska,županija,2006,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,747381
+8525,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8526,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,33379610
+8527,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8528,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,33032859
+8529,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8530,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,1074950
+8531,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8532,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8533,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8534,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8535,Primorsko-goranska,županija,2006,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,0
+8536,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8537,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8538,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,20627637
+8539,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8540,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,0
+8541,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8542,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1310320
+8543,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8544,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8545,Primorsko-goranska,županija,2006,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,8087700
+8546,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,13907283
+8547,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8548,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,567441
+8549,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8550,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8551,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,48433129
+8552,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8553,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,2084822
+8554,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8555,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,5091575
+8556,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8557,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,0
+8558,Primorsko-goranska,županija,2007,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,216106
+8559,Primorsko-goranska,županija,2007,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8560,Primorsko-goranska,županija,2007,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8561,Primorsko-goranska,županija,2007,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8562,Primorsko-goranska,županija,2007,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8563,Primorsko-goranska,županija,2007,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8564,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8565,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,1975000
+8566,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8567,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8568,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8569,Primorsko-goranska,županija,2007,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,298085
+8570,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8571,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8572,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8573,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8574,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,1537661
+8575,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8576,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8577,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8578,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8579,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8580,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8581,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8582,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8583,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8584,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,1740117
+8585,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,12292479
+8586,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8587,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,2175562
+8588,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8589,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,432070
+8590,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8591,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8592,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,4065864
+8593,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8594,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",14346349
+8595,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",2132266
+8596,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8597,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8598,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8599,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8600,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8601,Primorsko-goranska,županija,2007,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8602,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,638394
+8603,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,1984990
+8604,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8605,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8606,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,3106189
+8607,Primorsko-goranska,županija,2007,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1648663
+8608,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,0
+8609,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,8349689
+8610,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,6949822
+8611,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8612,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8613,Primorsko-goranska,županija,2007,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,2000000
+8614,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8615,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8616,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8617,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,46275776
+8618,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,60000
+8619,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,0
+8620,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8621,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8622,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8623,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8624,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8625,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,8621545
+8626,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,300000
+8627,Primorsko-goranska,županija,2007,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,26497
+8628,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,7843416
+8629,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,12645191
+8630,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8631,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,170000
+8632,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8633,Primorsko-goranska,županija,2007,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,1073816
+8634,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8635,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,33614955
+8636,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8637,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,36649719
+8638,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8639,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,1117000
+8640,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8641,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8642,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8643,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8644,Primorsko-goranska,županija,2007,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,0
+8645,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8646,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8647,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,21475732
+8648,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8649,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,0
+8650,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8651,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1336720
+8652,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8653,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8654,Primorsko-goranska,županija,2007,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,7494666
+8655,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,14131651
+8656,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8657,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,642934
+8658,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8659,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8660,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,57410276
+8661,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8662,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,3058445
+8663,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8664,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,3648598
+8665,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8666,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,0
+8667,Primorsko-goranska,županija,2008,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,332859
+8668,Primorsko-goranska,županija,2008,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8669,Primorsko-goranska,županija,2008,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8670,Primorsko-goranska,županija,2008,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8671,Primorsko-goranska,županija,2008,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8672,Primorsko-goranska,županija,2008,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8673,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8674,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,2582000
+8675,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8676,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8677,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8678,Primorsko-goranska,županija,2008,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,103795
+8679,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8680,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8681,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8682,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8683,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,3204312
+8684,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8685,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8686,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8687,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8688,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8689,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8690,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8691,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8692,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8693,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,2581538
+8694,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,9148325
+8695,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8696,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,1032908
+8697,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8698,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,485177
+8699,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8700,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8701,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,4200000
+8702,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8703,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",11629742
+8704,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",3083693
+8705,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,0
+8706,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8707,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8708,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8709,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8710,Primorsko-goranska,županija,2008,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8711,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,5332212
+8712,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,600000
+8713,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8714,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8715,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,2944438
+8716,Primorsko-goranska,županija,2008,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1662982
+8717,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,44577
+8718,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,7370449
+8719,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,2800000
+8720,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8721,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8722,Primorsko-goranska,županija,2008,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,0
+8723,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8724,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8725,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8726,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,51509573
+8727,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,80000
+8728,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,0
+8729,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8730,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8731,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8732,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8733,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8734,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,10748619
+8735,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,260000
+8736,Primorsko-goranska,županija,2008,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,72282
+8737,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,11762088
+8738,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,12795258
+8739,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8740,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8741,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8742,Primorsko-goranska,županija,2008,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,865075
+8743,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8744,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,36660239
+8745,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8746,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,43903073
+8747,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8748,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,1263400
+8749,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8750,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8751,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8752,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8753,Primorsko-goranska,županija,2008,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,0
+8754,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8755,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8756,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,28286913
+8757,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8758,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,0
+8759,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8760,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1325250
+8761,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8762,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8763,Primorsko-goranska,županija,2008,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,7959588
+8764,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,14773386
+8765,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8766,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,622711
+8767,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8768,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8769,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,61115772
+8770,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8771,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,2421763
+8772,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8773,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,3298863
+8774,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8775,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,0
+8776,Primorsko-goranska,županija,2009,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,226937
+8777,Primorsko-goranska,županija,2009,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8778,Primorsko-goranska,županija,2009,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8779,Primorsko-goranska,županija,2009,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8780,Primorsko-goranska,županija,2009,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8781,Primorsko-goranska,županija,2009,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8782,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8783,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,2636000
+8784,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8785,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8786,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8787,Primorsko-goranska,županija,2009,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,78120
+8788,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8789,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8790,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8791,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8792,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,2384129
+8793,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8794,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8795,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8796,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8797,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8798,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8799,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8800,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8801,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8802,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,1746615
+8803,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,8701850
+8804,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8805,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,1406756
+8806,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8807,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,594614
+8808,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8809,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8810,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,3078970
+8811,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8812,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",10658075
+8813,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",2749690
+8814,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,158270
+8815,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8816,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8817,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8818,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8819,Primorsko-goranska,županija,2009,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8820,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,2472211
+8821,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,349962
+8822,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8823,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8824,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,2893752
+8825,Primorsko-goranska,županija,2009,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1560114
+8826,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,19994
+8827,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,2465222
+8828,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,2006540
+8829,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8830,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8831,Primorsko-goranska,županija,2009,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,0
+8832,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8833,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8834,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8835,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,50374014
+8836,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,81575
+8837,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,0
+8838,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8839,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8840,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8841,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8842,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8843,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,9758487
+8844,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,275500
+8845,Primorsko-goranska,županija,2009,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,60931
+8846,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,7522575
+8847,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,11342186
+8848,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8849,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8850,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8851,Primorsko-goranska,županija,2009,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,636600
+8852,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8853,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,38893111
+8854,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8855,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,43398028
+8856,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8857,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,1151500
+8858,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8859,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8860,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8861,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8862,Primorsko-goranska,županija,2009,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,0
+8863,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8864,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8865,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,23184459
+8866,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8867,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,0
+8868,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8869,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1489600
+8870,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8871,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8872,Primorsko-goranska,županija,2009,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,7780740
+8873,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0111,Izvršna i zakonodavna tijela,13467238
+8874,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0112,Financijski i fiskalni poslovi,0
+8875,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,011,"Izvršna i zakonodavna tijela, financijski i fiskalni poslovi, vanjski poslovi",0113,Vanjski poslovi,553474
+8876,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0121,Ekonomska pomoć zemljama u razvoju i zemljama u tranziciji,0
+8877,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,012,Inozemna ekonomska pomoć,0122,Ekonomska pomoć usmjerena preko međunarodnih agencija,0
+8878,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0131,Opće usluge vezane za službenike,43325003
+8879,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0132,Sveukupno planiranje i statističke usluge,0
+8880,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,013,Opće usluge,0133,Ostale opće usluge,6366617
+8881,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,014,Osnovna istraživanja,,,0
+8882,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,015,Istraživanje i razvoj: Opće javne usluge,,,0
+8883,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,016,Opće javne usluge koje nisu drugdje svrstane,,,0
+8884,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,017,Transakcije vezane za javni dug,,,0
+8885,Primorsko-goranska,županija,2010,rashod,funkcijska,01,Opće javne usluge,018,Prijenosi općeg karaktera između različitih državnih razina,,,1577450
+8886,Primorsko-goranska,županija,2010,rashod,funkcijska,02,Obrana,021,Vojna obrana,,,0
+8887,Primorsko-goranska,županija,2010,rashod,funkcijska,02,Obrana,022,Civilna obrana,,,0
+8888,Primorsko-goranska,županija,2010,rashod,funkcijska,02,Obrana,023,Inozemna vojna pomoć,,,0
+8889,Primorsko-goranska,županija,2010,rashod,funkcijska,02,Obrana,024,Istraživanje i razvoj obrane,,,0
+8890,Primorsko-goranska,županija,2010,rashod,funkcijska,02,Obrana,025,Rashodi za obranu koji nisu drugdje svrstani,,,0
+8891,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,031,Usluge policije,,,0
+8892,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,032,Usluge protupožarne zaštite,,,2200000
+8893,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,033,Sudovi,,,0
+8894,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,034,Zatvori,,,0
+8895,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,035,Istraživanje i razvoj: Javni red i sigurnost,,,0
+8896,Primorsko-goranska,županija,2010,rashod,funkcijska,03,Javni red i sigurnost,036,Rashodi za javni red i sigurnost koji nisu drugdje svrstani,,,499468
+8897,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0411,Opći ekonomski i trgovački poslovi,0
+8898,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,041,"Opći ekonomski, trgovački i poslovi vezani uz rad",0412,Opći poslovi vezani uz rad,0
+8899,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0421,Poljoprivreda,0
+8900,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0422,Šumarstvo,0
+8901,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,042,"Poljoprivreda, šumarstvo, ribarstvo i lov",0423,Ribarstvo i lov,1551207
+8902,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0431,Ugljen i ostala kruta mineralna goriva,0
+8903,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0432,Nafta i prirodni plin,0
+8904,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0433,Nuklearno gorivo,0
+8905,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0434,Ostala goriva,0
+8906,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0435,Električna energija,0
+8907,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,043,Gorivo i energija,0436,Ostale vrste energije,0
+8908,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0441,"Rudarstvo, mineralni resursi i ostala mineralna goriva",0
+8909,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0442,Proizvodnja ,0
+8910,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,044,"Rudarstvo, proizvodnja i građevinarstvo",0443,Građevinarstvo,0
+8911,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0451,Cestovni promet,1879586
+8912,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0452,Promet vodnim potovima,6632147
+8913,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0453,Željeznički promet,0
+8914,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0454,Zračni promet,971712
+8915,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,045,Promet,0455,Promet cjevovodima i ostali promet,0
+8916,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,046,Komunikacije,,,448060
+8917,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0471,Distribucija i skladištenje,0
+8918,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0472,Hoteli i restorani,0
+8919,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0473,Turizam,1984718
+8920,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,047,Ostale industrije,0474,Višenamjenski razvojni projekti,0
+8921,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0481,"Istraživanje i razvoj: Opći ekonomski, trgovački i poslovi vezani uz rad",8431292
+8922,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0482,"Istraživanje i razvoj: Poljoprivreda, šumarstvo, ribarstvo i lov",6099575
+8923,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0483,Istraživanje i razvoj: Gorivo i energija,773754
+8924,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0484,"Istraživanje i razvoj: Rudarstvo, proizvodnja i građevinarstvo",0
+8925,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0485,Istraživanje i razvoj: Promet,0
+8926,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0486,Istraživanje i razvoj: Komunikacije,0
+8927,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,048,Istraživanje i razvoj: Ekonomski poslovi,0487,Istraživanje i razvoj: Ostale industrije,0
+8928,Primorsko-goranska,županija,2010,rashod,funkcijska,04,Ekonomski poslovi,049,Ekonomski poslovi koji nisu drugdje svrstani,,,0
+8929,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,051,Gospodarenje otpadom,,,4728069
+8930,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,052,Gospodarenje otpadnim vodama,,,400000
+8931,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,053,Smanjenje zagađivanja,,,0
+8932,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,054,Zaštita bioraznolikosti i krajolika,,,0
+8933,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,055,Istraživanje i razvoj: Zaštita okoliša,,,2564456
+8934,Primorsko-goranska,županija,2010,rashod,funkcijska,05,Zaštita okoliša,056,Poslovi i usluge zaštite okoliša koji nisu drugdje svrstani,,,1271906
+8935,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,061,Razvoj stanovanja,,,643497
+8936,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,062,Razvoj zajednice,,,10720689
+8937,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,063,Opskrba vodom,,,1192434
+8938,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,064,Ulična rasvjeta,,,0
+8939,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,065,Istraživanje i razvoj stanovanja i komunalnih pogodnosti,,,0
+8940,Primorsko-goranska,županija,2010,rashod,funkcijska,06,Usluge unapređenja stanovanja i zajednice,066,Rashodi vezani za stanovanje i kom pogodnosti koji nisu drugdje svrstani,,,0
+8941,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0711,Farmaceutski proizvodi,0
+8942,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0712,Ostali medicinski proizvodi,0
+8943,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,071,"Medicinski proizvodi, pribor i oprema",0713,Terapeutski pribor i oprema,0
+8944,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0721,Opće medicinske usluge,56373749
+8945,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0722,Specijalističke medicinske usluge,84900
+8946,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0723,Zubarske usluge,0
+8947,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,072,Službe za vanjske pacijente,0724,Paramedicinske usluge ,0
+8948,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0731,Usluge općih bolnica,0
+8949,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0732,Usluge specijalističkih bolnica,0
+8950,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0733,Usluge medicinskih centara i centara za majčinstvo,0
+8951,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,073,Bolničke službe,0734,Usluge centara za njegu i oporavak,0
+8952,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,074,Službe javnog zdravstva,,,9973483
+8953,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,075,Istraživanje i razvoj zdravstva,,,172400
+8954,Primorsko-goranska,županija,2010,rashod,funkcijska,07,Zdravstvo,076,Poslovi i usluge zdravstva koji nisu drugdje svrstani,,,68654
+8955,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",081,Službe rekreacije i sporta,,,7910402
+8956,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",082,Službe kulture,,,11217156
+8957,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",083,Službe emitiranja i izdavanja,,,0
+8958,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",084,Religijske i druge službe zajednice,,,0
+8959,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",085,"Istraživanje i razvoj rekreacije, kulture i religije",,,0
+8960,Primorsko-goranska,županija,2010,rashod,funkcijska,08,"Rekreacija, kultura i religija",086,"Rashodi za rekreaciju, kulturu i religiju koji nisu drugdje svrstani",,,620334
+8961,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0911,Predškolsko obrazovanje,0
+8962,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,091,Predškolsko i osnovno obrazovanje,0912,Osnovno obrazovanje,36294618
+8963,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0921,Niže srednjoškolsko obrazovanje,0
+8964,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,092,Srednjoškolsko obrazovanje,0922,Više srednjoškolsko obrazovanje,36040166
+8965,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,093,"Poslije srednjoškolsko, ali ne visoko obrazovanje",,,0
+8966,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0941,Prvi stupanj visoke naobrazbe,991000
+8967,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,094,Visoka naobrazba,0942,Drugi stupanj visoke naobrazbe,0
+8968,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,095,Obrazovanje koje se ne može definirati po stupnju,,,0
+8969,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,096,Dodatne usluge u obrazovanju,,,0
+8970,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,097,Istraživanje i razvoj obrazovanja,,,0
+8971,Primorsko-goranska,županija,2010,rashod,funkcijska,09,Obrazovanje,098,Usluge obrazovanja koje nisu drugdje svrstane,,,84000
+8972,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1011,Bolest,0
+8973,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,101,Bolest i invaliditet,1012,Invaliditet,0
+8974,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,102,Starost,,,23834906
+8975,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,103,Sljednici,,,0
+8976,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,104,Obitelj i djeca,,,0
+8977,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,105,Nezaposlenost,,,0
+8978,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,106,Stanovanje,,,1698600
+8979,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,107,Socijalna pomoć stanovništvu koje nije obuhvaćeno redovnim socijalnim programima,,,0
+8980,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,108,Istraživanje i razvoj socijalne zaštite,,,0
+8981,Primorsko-goranska,županija,2010,rashod,funkcijska,10,Socijalna zaštita,109,Aktivnosti socijalne zaštite koje nisu drugdje svrstane,,,8585248
